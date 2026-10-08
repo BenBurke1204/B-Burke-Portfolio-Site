@@ -1,0 +1,22 @@
+#projectImages,
+#projectText {
+    width: 100%;
+}
+
+#projectImages img {
+    aspect-ratio: 1 / 1;
+    object-fit: cover;
+}
+
+#projectText {
+    min-height: 300px;
+}
+
+#projectText .carousel-item {
+    min-height: 300px;
+}
+
+#projectText .carousel-item.active {
+    display: flex;
+    align-items: center;
+}
