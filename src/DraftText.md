@@ -10,9 +10,11 @@ Finish content in carousels.
 2. the languages I know / tech I know - - done 
 3. The type of project I enjoy -- done
 4. button to the my projects page
+	- need to add a button to it
 5. button to the about me page 
+	- need to add a button to it
 
-## Landing page text draft 
+
 
 
 
